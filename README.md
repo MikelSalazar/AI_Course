@@ -1,2 +1,2 @@
 # AI_Course
-The website and instructional materialsfor the course in Artificial Intelligence and Knowlege Engineering.
+The webapp and instructional materials for the course in Artificial Intelligence and Knowlege Engineering.
